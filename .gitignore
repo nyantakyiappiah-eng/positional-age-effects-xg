@@ -1,0 +1,26 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data files (confidential)
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.rds
+*.Rds
+
+# Outputs
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
